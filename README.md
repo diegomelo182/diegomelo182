@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Diego</h1>
-  <h4 align="center">a Full-stack developer, gamer and musician in the free time, see my <a href="" target="_blank">CV</a> for more</h4>
+  <h4 align="center">a Full-stack developer, gamer and musician in the free time, see my <a href="https://github.com/diegomelo182/diegomelo182/raw/main/files/CV%20-%20Diego%20Leite.pdf" target="_blank">CV</a> for more</h4>
 </div>
 
 <div align="center">
-  <img  src="https://github.com/diegomelo182/diegomelo182/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
+  <img  src="https://raw.githubusercontent.com/diegomelo182/diegomelo182/main/files/grid-snake.svg" alt="snake" />
 </div>
 
 -----
